@@ -1,0 +1,17 @@
+html{font-family:system-ui,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,
+    'Apple Color Emoji','Segoe UI Emoji';
+    line-height:1.15;-webkit-text-size-adjust:100%;-moz-tab-size:4;tab-size:4}
+body{}
+
+.head{border-bottom: 1px solid  #E7E9FC;
+    background-color:#FFF;}
+main{}
+.Effective Solutions{color: var(#FFF);
+    text-align: center;
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 1.12px;
+    background-color: #2E2F42;}
