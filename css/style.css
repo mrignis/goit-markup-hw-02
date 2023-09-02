@@ -4,10 +4,7 @@ font-family: 'Roboto', sans-serif;
 color: #434455;
 background-color: #FFFFFF;
 margin: auto;}
-
-.header{
-border-bottom: 1px solid#E7E9FC;
-    background:#FFF;}
+.header{background-color:#FFF;}
 .titleweb{
 font-family: 'Raleway', sans-serif;
 font-size: 18px;
@@ -16,40 +13,49 @@ font-weight: 700;
 text-transform: uppercase;
 color:#4d5ae5;
 height: 24px;
-align-items: center;
-flex-shrink: 0;}
-.span{color:#2e2f42;}
+letter-spacing: 0.03em;
+}
 .adress{color: #434455;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.32px;}
-.links{color:  #2E2F42;
+.adress :hover{color:#404bbf;}
+
+.links .studio .link{
+color:#2e2f42;
 font-size: 16px;
 font-style: normal;
 font-weight: 500; 
 line-height: 1.5;
-letter-spacing: 0.02em;}
+letter-spacing: 0.02em;
+text-transform: uppercase;}
+.studio .link:hover{color: #404bbf;}
+
+
 .main-title{background:#2E2F42;}
-.ESYB{color:#FFF;
+
+.ESYB{font-family: "Roboto", sans-serif;
+    color: #FFF;
     text-align: center;
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
-    line-height: 60px;
     letter-spacing: 1.12px;
-    width: 496px;}
+    font-size: 56px;
+    line-height: 1.07;}
 .button-main{
+    font-family: "Roboto", sans-serif;
     cursor: pointer;
     margin: auto;
-    padding: 16px 32px;
-    align-items: flex-start;
-    gap: 10px;
-    border-radius: 4px;
-    background:#4D5AE5;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);}
+    color:#ffffff;
+    background-color:#4D5AE5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;}
+.button-main:hover{background-color: #404BBF}
 .main-text{
-    width: 1128px;
-    flex-shrink: 0;
-    font-style: normal}
+    font-style: normal;
+}
