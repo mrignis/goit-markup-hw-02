@@ -84,35 +84,35 @@ body{
     letter-spacing: 0.04em;}
 .button-main:hover{background-color: #404BBF;}
 .button-main:active{background-color: #404BBF;}
-.skills .str{
+.str{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
-.skills .punct{
+.punct{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
-.skills .diling {
+.diling {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
-.skills .techno {
+.techno {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
-.skills .text-str{font-size: 16px;
+.text-str{font-size: 16px;
     line-height: 1.5;letter-spacing: 0.02em;}
-.skills .text-punct{font-size: 16px;
+.text-punct{font-size: 16px;
     line-height: 1.5;letter-spacing: 0.02em;}
-.skills .text-dil{font-size: 16px;
+.text-dil{font-size: 16px;
     line-height: 1.5;}
-.skills .text-tech{font-size: 16px;
+.text-tech{font-size: 16px;
     line-height: 1.5;}
