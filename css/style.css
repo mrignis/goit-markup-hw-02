@@ -1,6 +1,6 @@
 html
 body{
-    font-family: 'Roboto','Raleway' sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #FFFFFF;}
 .header{background-color:#FFF;}
@@ -11,7 +11,6 @@ body{
     font-weight: 700;
     text-transform: uppercase;
     color:#4d5ae5;
-    height: 24px;
     letter-spacing: 0.03em;
     }
 .span{color:#2e2f42;}
@@ -21,7 +20,6 @@ body{
     letter-spacing: 0.02em;
     color:#434455;
     font-size: 16px;
-    font-style: normal;
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.32px;}
@@ -29,7 +27,7 @@ body{
 .adress:focus{color: #404bbf;}
 
 
- .studio .link{
+.link{
     color:#2e2f42;
     font-size: 16px;
     font-style: normal;
@@ -40,7 +38,7 @@ body{
 .link:hover{color: #404bbf;}
 .link:focus{color:#404bbf;}
 
-.links .portfolio{
+.portfolio{
     color: #2e2f42;
     font-size: 16px;
     font-style: normal;
@@ -48,10 +46,10 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-transform: uppercase;}
-.links .portfolio:hover{color: #404bbf; }
-.links .portfolio:active{color: #404bbf;}
+.portfolio:hover{color: #404bbf; }
+.portfolio:active{color: #404bbf;}
 
-.links .contacts{
+.contacts{
     color: #2e2f42;
     font-size: 16px;
     font-style: normal;
@@ -59,8 +57,8 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-transform: uppercase;}
- .links .contacts:hover{color:#404bbf;}   
-.links .contacts:focus{color:#404bbf;}
+ .contacts:hover{color:#404bbf;}   
+.contacts:focus{color:#404bbf;}
 .main-title{background:#2E2F42;}
 
 .ESYB{font-family: "Roboto", sans-serif;
@@ -75,7 +73,6 @@ body{
 .button-main{
     font-family: "Roboto", sans-serif;
     cursor: pointer;
-    margin: auto;
     color:#ffffff;
     background-color:#4D5AE5;
     font-weight: 500;
