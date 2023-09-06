@@ -63,42 +63,42 @@ body{
 .button-main:hover{background-color: #404BBF;}
 .button-main:focus{background-color: #404BBF;}
 
-.skills .one.stra{
+skills .one.stra{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
-.skills .one.text-str{
+skills .one.text-str{
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;}
-.skills  .two.punct{
+skills  .two.punct{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
-.skills  .two.text-punct{
+skills  .two.text-punct{
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;}
-.skills  .tree.diling{
+skills  .tree.diling{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42 ;}
-.skills .tree.text-dil{
+skills .tree.text-dil{
     font-size: 16px;
     line-height: 1.5;}
-.skills .four.techno {
+skills .four.techno {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
-.skills .four.text-tech{
+skills .four.text-tech{
     font-size: 16px;
     line-height: 1.5;}
 
@@ -113,53 +113,53 @@ body{
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-.products{background-color: #FFFFFF}
+products{background-color: #FFFFFF}
 
-.products .product-desig.name-des{ 
+products .product-desig.name-des{ 
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:  #2e2f42;
 }
-.products .product-desig.text-des{ 
+products .product-desig.text-des{ 
     font-size: 16px;
     letter-spacing:0.02em;
     line-height: 1.5;
     color: #434455;}
-.products .marketc.name-marketing { 
+products .marketc.name-marketing { 
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:  #2e2f42;
 }
-.products .market.text-market{ 
+products .market.text-market{ 
     font-size: 16px;
     letter-spacing:0.02em;
     line-height: 1.5;
     color: #434455;}
 
-.products .frontend-develop.name-frontend{ 
+products .frontend-develop.name-frontend{ 
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:  #2e2f42;
 }
-.products .frontend-develop.text-front{ 
+products .frontend-develop.text-front{ 
     font-size: 16px;
     letter-spacing:0.02em;
     line-height: 1.5;
     color: #434455;}
-.products .ui-designer name-ui{ 
+products .ui-designer name-ui{ 
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:  #2e2f42;
 }
-.products .ui-designer.text-ui{ 
+products .ui-designer.text-ui{ 
     font-size: 16px;
     letter-spacing:0.02em;
     line-height: 1.5;
