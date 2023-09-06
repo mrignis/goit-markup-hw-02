@@ -27,38 +27,18 @@ body{
 .adress:focus{color: #404bbf;}
 
 
-.link{
-    color:#2e2f42;
+.links{ color:#2e2f42;
     font-size: 16px;
     font-style: normal;
     font-weight: 500; 
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-transform: uppercase;}
-.link:hover{color: #404bbf;}
-.link:focus{color:#404bbf;}
+.links:hover:hover{color: #404bbf;}
+.links:focus:focus{color:#404bbf;}
 
-.portfolio{
-    color: #2e2f42;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    text-transform: uppercase;}
-.portfolio:hover{color: #404bbf; }
-.portfolio:active{color: #404bbf;}
 
-.contacts{
-    color: #2e2f42;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    text-transform: uppercase;}
- .contacts:hover{color:#404bbf;}   
-.contacts:focus{color:#404bbf;}
+
 .main-title{background:#2E2F42;}
 
 .ESYB{font-family: "Roboto", sans-serif;
