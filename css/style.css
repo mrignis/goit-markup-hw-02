@@ -14,7 +14,42 @@ body{
     letter-spacing: 0.03em;
     }
 .span{color:#2e2f42;}
-.adress{
+
+
+.links .link{ 
+    color:#2e2f42;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500; 
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;}
+.links .link:hover:hover{color: #404bbf;}
+.links .link:focus:focus{color:#404bbf;}
+
+.links .portfolio-link{ 
+    color:#2e2f42;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500; 
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;}
+.links .portfolio-link:hover:hover{color: #404bbf;}
+.links .portfolio-link:focus:focus{color:#404bbf;}
+
+.links .contacts-link{ 
+    color:#2e2f42;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500; 
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;}
+.links .contacts-link:hover:hover{color: #404bbf;}
+.links .contacts-link:focus:focus{color:#404bbf;}
+
+.info .mail{
     font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -23,21 +58,20 @@ body{
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.32px;}
-.adress:hover{color:#404bbf;}
-.adress:focus{color: #404bbf;}
+.info .mail:hover{color:#404bbf;}
+.info .mail:focus{color: #404bbf;}
 
-
-.links{ color:#2e2f42;
-    font-size: 16px;
+.info .number{
     font-style: normal;
-    font-weight: 500; 
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-transform: uppercase;}
-.links:hover:hover{color: #404bbf;}
-.links:focus:focus{color:#404bbf;}
-
-
+    color:#434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;}
+.info .number:hover{color:#404bbf;}
+.info .number:focus{color: #404bbf;}
 
 .main-title{background:#2E2F42;}
 
@@ -63,42 +97,42 @@ body{
 .button-main:hover{background-color: #404BBF;}
 .button-main:focus{background-color: #404BBF;}
 
-skills .one.stra{
+.skills .stra{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
-skills .one.text-str{
+.skills  .text-str{
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;}
-skills  .two.punct{
+.skills  .punct{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
-skills  .two.text-punct{
+.skills  .text-punct{
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;}
-skills  .tree.diling{
+.skills  .diling{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42 ;}
-skills .tree.text-dil{
+.skills  .text-dil{
     font-size: 16px;
     line-height: 1.5;}
-skills .four.techno {
+.skills  .techno {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
-skills .four.text-tech{
+.skills  .text-tech{
     font-size: 16px;
     line-height: 1.5;}
 
@@ -113,53 +147,53 @@ skills .four.text-tech{
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-products{background-color: #FFFFFF}
+.products{background-color: #FFFFFF}
 
-products .product-desig.name-des{ 
+.products .name-des{ 
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:  #2e2f42;
 }
-products .product-desig.text-des{ 
+.products .text-des{ 
     font-size: 16px;
     letter-spacing:0.02em;
     line-height: 1.5;
     color: #434455;}
-products .marketc.name-marketing { 
+.products .name-marketing { 
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:  #2e2f42;
 }
-products .market.text-market{ 
+.products .text-market{ 
     font-size: 16px;
     letter-spacing:0.02em;
     line-height: 1.5;
     color: #434455;}
 
-products .frontend-develop.name-frontend{ 
+.products .name-frontend{ 
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:  #2e2f42;
 }
-products .frontend-develop.text-front{ 
+.products .text-front{ 
     font-size: 16px;
     letter-spacing:0.02em;
     line-height: 1.5;
     color: #434455;}
-products .ui-designer name-ui{ 
+.products .name-ui{ 
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:  #2e2f42;
 }
-products .ui-designer.text-ui{ 
+.products .text-ui{ 
     font-size: 16px;
     letter-spacing:0.02em;
     line-height: 1.5;
@@ -174,80 +208,80 @@ products .ui-designer.text-ui{
     text-transform: capitalize;
     color:#2e2f42;
     }  
-.bank{
+.presentation .bank{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-.text-bank{
+.presentation .text-bank{
     color:#434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.pay{
+.presentation .pay{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.text-pay{
+.presentation .text-pay{
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.meditation{
+.presentation .meditation{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-.text-medi{
+.presentation .text-medi{
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}
 
-.taxi{
+.presentation .taxi{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.text-taxi{
+.presentation .text-taxi{
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}
 
-.screen{
+.presentation .screen{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.text-scren{
+.presentation .text-scren{
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}
-.online{
+.presentation .online{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.text-online {color: #434455;
+.presentation .text-online {color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}
