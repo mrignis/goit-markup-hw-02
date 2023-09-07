@@ -28,7 +28,7 @@ body{
 .link:focus:focus{color:#404bbf;}
 
 .adress{font-style: normal;}
-.info .mail{
+.info{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
@@ -36,19 +36,10 @@ body{
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.32px;}
-.info .mail:hover{color:#404bbf;}
-.info .mail:focus{color: #404bbf;}
+.info:hover{color:#404bbf;}
+.info:focus{color: #404bbf;}
 
-.info .number{
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color:#434455;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;}
-.info .number:hover{color:#404bbf;}
-.info .number:focus{color: #404bbf;}
+
 
 .main-title{background:#2E2F42;}
 
