@@ -27,27 +27,6 @@ body{
 .links .link:hover:hover{color: #404bbf;}
 .links .link:focus:focus{color:#404bbf;}
 
-.links .portfolio-link{ 
-    color:#2e2f42;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500; 
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    text-transform: uppercase;}
-.links .portfolio-link:hover:hover{color: #404bbf;}
-.links .portfolio-link:focus:focus{color:#404bbf;}
-
-.links .contacts-link{ 
-    color:#2e2f42;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500; 
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    text-transform: uppercase;}
-.links .contacts-link:hover:hover{color: #404bbf;}
-.links .contacts-link:focus:focus{color:#404bbf;}
 .adress{font-style: normal;}
 .info .mail{
     line-height: 1.5;
@@ -105,36 +84,9 @@ body{
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;}
-.punct{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;}
-.text-punct{
-         font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;}
-.diling{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42 ;}
-.text-dil{ font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-    }
-.techno {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;}
-.text-tech{ font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-   }
+
+     
+  
 
 .staff{ background-color: #F4F4FD}
 
@@ -146,10 +98,10 @@ body{
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-.product-desig{
+.product{
     background-color:#FFFFFF; }
 
-.name-des{ 
+.name{ 
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -157,53 +109,12 @@ body{
     color:  #2e2f42;
 }
 
-.text-des{ 
-    font-size: 16px;
-    letter-spacing:0.02em;
-    line-height: 1.5;
-    color: #434455;}
-.market{ background-color: #FFFFFF;}
-    
-.name-marketing{ 
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color:  #2e2f42
-}
-
-.text-market{ 
+.text{ 
     font-size: 16px;
     letter-spacing:0.02em;
     line-height: 1.5;
     color: #434455;}
 
-.frontend-develop{ background-color: #FFFFFF;}
-.name-frontend{ 
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color:  #2e2f42
-}
-.text-front{ 
-    font-size: 16px;
-    letter-spacing:0.02em;
-    line-height: 1.5;
-    color: #434455;}
-.ui-designer{ background-color: #FFFFFF;}
-.name-ui{ 
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color:  #2e2f42
-}
-.text-ui{ 
-    font-size: 16px;
-    letter-spacing:0.02em;
-    line-height: 1.5;
-    color: #434455;}
 
 
 .our-port{
@@ -214,89 +125,20 @@ body{
     text-transform: capitalize;
     color:#2e2f42;
     }  
-.bank{
+.first{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-.text-bank{
+.second{
     color:#434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.pay{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color:#2e2f42;
-}
-.text-pay{
-    color:#434455;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em; 
-}
-
-.meditation{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color:#2e2f42;
-}
-.text-medi{
-    color:#434455;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
-.taxi{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color:#2e2f42;
-}
-.text-taxi{
-    color:#434455;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
-.screen{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color:#2e2f42;
-}
-.text-scren{
-    color:#434455;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
-.online{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color:#2e2f42;
-}
-.text-online {color: #434455;
-    color:#434455;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
 
 .foot{background-color:#2E2F42}    
 
