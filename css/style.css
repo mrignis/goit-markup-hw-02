@@ -16,7 +16,7 @@ body{
 .span{color:#2e2f42;}
 
 
-.links .link{ 
+.link{ 
     color:#2e2f42;
     font-size: 16px;
     font-style: normal;
@@ -24,8 +24,8 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-transform: uppercase;}
-.links .link:hover:hover{color: #404bbf;}
-.links .link:focus:focus{color:#404bbf;}
+.link:hover:hover{color: #404bbf;}
+.link:focus:focus{color:#404bbf;}
 
 .adress{font-style: normal;}
 .info .mail{
