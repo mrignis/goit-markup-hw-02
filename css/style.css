@@ -144,10 +144,10 @@ body{
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-.products .product-desig{
+.product-desig{
     background-color:#FFFFFF; }
 
-.products .name-des{ 
+.name-des{ 
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -155,15 +155,14 @@ body{
     color:  #2e2f42;
 }
 
-.products .text-des{ 
+.text-des{ 
     font-size: 16px;
     letter-spacing:0.02em;
     line-height: 1.5;
     color: #434455;}
-
-    .products .market{ background-color: #FFFFFF;}
+.market{ background-color: #FFFFFF;}
     
-.products .name-marketing{ 
+.name-marketing{ 
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -171,34 +170,34 @@ body{
     color:  #2e2f42;
 }
 
-.products .text-market{ 
+.text-market{ 
     font-size: 16px;
     letter-spacing:0.02em;
     line-height: 1.5;
     color: #434455;}
 
-.products .frontend-develop{ background-color: #FFFFFF;}
-.products .name-frontend{ 
+.frontend-develop{ background-color: #FFFFFF;}
+.name-frontend{ 
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:  #2e2f42;
 }
-.products .text-front{ 
+.text-front{ 
     font-size: 16px;
     letter-spacing:0.02em;
     line-height: 1.5;
     color: #434455;}
-.products .ui-designer{ background-color: #FFFFFF;}
-.products .name-ui{ 
+.ui-designer{ background-color: #FFFFFF;}
+.name-ui{ 
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:  #2e2f42;
 }
-.products .text-ui{ 
+.text-ui{ 
     font-size: 16px;
     letter-spacing:0.02em;
     line-height: 1.5;
@@ -213,81 +212,81 @@ body{
     text-transform: capitalize;
     color:#2e2f42;
     }  
-.presentation .image-bank.bank{
+.bank{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-.presentation .image-bank.text-bank{
+.text-bank{
     color:#434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.presentation  .image-pay.pay{
+.pay{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.presentation  .image-pay.text-pay{
+.text-pay{
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.presentation .image-medi.meditation{
+.meditation{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-.presentation .image-medi.text-medi{
+.text-medi{
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}
 
-.presentation .image-taxi.taxi{
+.taxi{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.presentation .image-taxi.text-taxi{
+.text-taxi{
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}
 
-.presentation .image-screen.screen{
+.screen{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.presentation .image-screen.text-scren{
+.text-scren{
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}
 
-.presentation .image-online.online{
+.online{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.presentation .image-online.text-online {color: #434455;
+.text-online {color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}
