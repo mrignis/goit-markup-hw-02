@@ -95,44 +95,46 @@ body{
 .button-main:hover{background-color: #404BBF;}
 .button-main:focus{background-color: #404BBF;}
 
-.skills .stra{
+.stra{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
-.skills  .text-str{
+.text-str{
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;}
-.skills  .punct{
+.punct{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
-.skills  .text-punct{
-        font-size: 16px;
+.text-punct{
+         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;}
-.skills  .diling{
+.diling{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42 ;}
-.skills  .text-dil{
-    font-size: 16px;
-    line-height: 1.5;}
-.skills  .techno {
+.text-dil{ font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+    }
+.techno {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
-.skills  .text-tech{
-    font-size: 16px;
-    line-height: 1.5;}
+.text-tech{ font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+   }
 
 .staff{ background-color: #F4F4FD}
 
@@ -167,7 +169,7 @@ body{
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color:  #2e2f42;
+    color:  #2e2f42
 }
 
 .text-market{ 
@@ -182,7 +184,7 @@ body{
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color:  #2e2f42;
+    color:  #2e2f42
 }
 .text-front{ 
     font-size: 16px;
@@ -195,7 +197,7 @@ body{
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color:  #2e2f42;
+    color:  #2e2f42
 }
 .text-ui{ 
     font-size: 16px;
@@ -231,13 +233,13 @@ body{
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color:#2e2f42;
 }
 .text-pay{
-    color: #434455;
+    color:#434455;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02em; 
 }
 
 .meditation{
@@ -248,48 +250,53 @@ body{
     color:#2e2f42;
 }
 .text-medi{
-    color: #434455;
+    color:#434455;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;}
+    letter-spacing: 0.02em;
+}
 
 .taxi{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color:#2e2f42;
 }
 .text-taxi{
-    color: #434455;
+    color:#434455;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;}
+    letter-spacing: 0.02em;
+}
 
 .screen{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color:#2e2f42;
 }
 .text-scren{
-    color: #434455;
+    color:#434455;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;}
+    letter-spacing: 0.02em;
+}
 
 .online{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color:#2e2f42;
 }
 .text-online {color: #434455;
+    color:#434455;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;}
+    letter-spacing: 0.02em;
+}
 
 .foot{background-color:#2E2F42}    
 
