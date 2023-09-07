@@ -48,9 +48,8 @@ body{
     text-transform: uppercase;}
 .links .contacts-link:hover:hover{color: #404bbf;}
 .links .contacts-link:focus:focus{color:#404bbf;}
-
+.adress{font-style: normal;}
 .info .mail{
-    font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
@@ -62,7 +61,6 @@ body{
 .info .mail:focus{color: #404bbf;}
 
 .info .number{
-    font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
@@ -136,9 +134,8 @@ body{
     font-size: 16px;
     line-height: 1.5;}
 
+.staff{ background-color: #F4F4FD}
 
-
-.staff{background-color: #F4F4FD;}
 .team {
     color: #2e2f42;
     font-size: 36px;
@@ -147,7 +144,8 @@ body{
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-.products{background-color: #FFFFFF}
+.products .product-desig{
+    background-color:#FFFFFF; }
 
 .products .name-des{ 
     font-weight: 500;
@@ -156,24 +154,30 @@ body{
     letter-spacing: 0.02em;
     color:  #2e2f42;
 }
+
 .products .text-des{ 
     font-size: 16px;
     letter-spacing:0.02em;
     line-height: 1.5;
     color: #434455;}
-.products .name-marketing { 
+
+    .products .market{ background-color: #FFFFFF;}
+    
+.products .name-marketing{ 
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:  #2e2f42;
 }
+
 .products .text-market{ 
     font-size: 16px;
     letter-spacing:0.02em;
     line-height: 1.5;
     color: #434455;}
 
+.products .frontend-develop{ background-color: #FFFFFF;}
 .products .name-frontend{ 
     font-weight: 500;
     font-size: 20px;
@@ -186,6 +190,7 @@ body{
     letter-spacing:0.02em;
     line-height: 1.5;
     color: #434455;}
+.products .ui-designer{ background-color: #FFFFFF;}
 .products .name-ui{ 
     font-weight: 500;
     font-size: 20px;
@@ -208,85 +213,87 @@ body{
     text-transform: capitalize;
     color:#2e2f42;
     }  
-.presentation .bank{
+.presentation .image-bank.bank{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-.presentation .text-bank{
+.presentation .image-bank.text-bank{
     color:#434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.presentation .pay{
+.presentation  .image-pay.pay{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.presentation .text-pay{
+.presentation  .image-pay.text-pay{
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.presentation .meditation{
+.presentation .image-medi.meditation{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-.presentation .text-medi{
+.presentation .image-medi.text-medi{
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}
 
-.presentation .taxi{
+.presentation .image-taxi.taxi{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.presentation .text-taxi{
+.presentation .image-taxi.text-taxi{
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}
 
-.presentation .screen{
+.presentation .image-screen.screen{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.presentation .text-scren{
+.presentation .image-screen.text-scren{
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}
-.presentation .online{
+
+.presentation .image-online.online{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.presentation .text-online {color: #434455;
+.presentation .image-online.text-online {color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}
 
-    .foot{background-color:#2E2F42}    
+.foot{background-color:#2E2F42}    
+
 .titlefoot{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -296,7 +303,9 @@ body{
     text-transform: uppercase;
     color: #4d5ae5;
 }
+
 .footer-span{color:#f4f4fd;}
+
 .foot-text{
     color:#F4F4FD;
     line-height: 1.5;
